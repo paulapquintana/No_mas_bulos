@@ -93,15 +93,15 @@ En la aplicación se pondrán encontrar tres tipos de recursos:
 
 ### Etapa 2: Prototipar / productos 
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Como se ha mencionado anteriormente, para el desarrollo básico de la aplicación y contar con un primer modelo se ha utilizado la herramienta H5P. En ella se ha desarollado uno de los recursos que aparecerían en la app: el juego que constituye una herramienta didáctica con la que saber si son ciertos o no algunos de los contenidos más difundidos por la red. Para ello, se han seleccionado diez de ellos atendiendo a diferentes ámbitos: migración, salud, funcionamiento electoral o feminismo. En esta aplicación, además de poder elegir si es cierta o no la afirmación que aparece en pantalla, tanto si se escoge la opción errónea (para saber por qué) como si se acierta (para completar información) aparecerá en pantalla el por qué es un bulo o no ese contenido utilizando fuentes serias, fiables y solventes. El diseño base de la aplicación de puede consultar aquí: https://paulaperezquin.h5p.com/content/1291305523605158057 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+![No Más Bulos](https://user-images.githubusercontent.com/82604710/117578556-3c48ac00-b0ef-11eb-9d62-00f67592f832.jpg)
 
-* redes sociales (...) 
+Además, en base al logotipo de la app, se ha diseñado con la herramienta Canva un diseño de cómo sería la interfaz del proyecto y en dónde se situaría cada uno de los tres recursos antes explicados. 
 
-* publicidad: banner (... ) 
+![Diseño de la app](https://user-images.githubusercontent.com/82604710/117578633-8d58a000-b0ef-11eb-9fdc-352fc61cee7a.png)
 
-* ...
+
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 

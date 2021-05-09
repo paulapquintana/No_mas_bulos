@@ -83,12 +83,11 @@ Público objetivo:
 - Talleres en institutos (alumnos entre 12 y 18 años).
 - Formaciones en empresas.
 
-**Estilo de narración**  (...indica como se hace uso de los medios)  
-
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+**Estilo de narración**  
+En la aplicación se pondrán encontrar tres tipos de recursos:
+- Herramienta didáctica a modo de "Bulo o verdad": Un juego con el que aprender de forma pedagógica si son ciertos o no algunos de los bulos más expandidos por la red durante los últimos años que afectan tanto a población migrante, feministas, sistema electoral o salud.
+- Tips y consejos a tener en cuenta en los contenidos para que los consumidores identifiquen ciertos elementos comunes en los bulos para que se pregunten si lo que han recibido es un bulo o no y lo comprueben antes de seguir compartiéndolo. El objetivo es que se frene la cadena de viralización de las desinformaciones con pensamiento crítico. 
+- Recursos de informes y estudios realizados por organizaciones, asociaciones, fundaciones o universidades para profundizar en el problema de la desinformación y el peligro que supone. 
 
 
 

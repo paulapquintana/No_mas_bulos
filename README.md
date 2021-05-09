@@ -24,18 +24,19 @@ Paula Pérez Quintana 2020/2021
 
 **Hashtag**  #NoMásBulos #SinVerificarNoCompartes #AlfabetizaciónMediática
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia**    Reconocimiento CC BY
 
-**Fecha** : 2020
+Con el objetivo de llegar al mayor número de lectores posible y ya que este proyecto no busca un ánimo de lucro sino que una alfabetización mediática de la sociedad debido al enorme peligro que supone la desinformación, se ha optado por un tipo de licencia flexible que permita adaptar los contenidos de la aplicación a cursos, talleres y charlas didácticas y pedagógicas para cualquier tipo de público. Esta licencia permite que terceras personas distribuyan, remezclen, adapten y construyan a partir de nuestro proyecto siempre que le den crédito a No Más Bulos. 
+
+**Fecha** : 2020/2021
 
 **Medios** (donde se tiene presencia): 
+- Diseño de la aplicación: H5P
+- Diseño de la web del proyecto: Wordpress
+- Redes sociales: Twitter, Instagram y Facebook
 
 
 *  :octocat: (github url) 
-* Twitter 
-* ... 
-
-
 
 --- 
 
@@ -47,7 +48,11 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
-**Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+**Investigación de campo**   
+
+"No Más Bulos" surge de la necesidad imperiosa que existe en la sociedad actual de alfabetizar mediáticamente a los lectores y consumidores de información. Durante los últimos años han surgido proyectos periodísticos de verificación que luchan por diferenciar la información de la desinformación. Sin embargo, el arma más potente para combatir los bulos es la alfabetización mediática de los lectores para que ellos mismos sean capaces de discernir y/o sospechar de los contenidos que les lleguen a sus dispositivos móviles. Por ello, No Más Bulos pretende ser una aplicación de iniciación a un consumo responsable de contenidos en Internet que pretenda a través de juegos y retos educar al público. 
+
+Existen diversos proyectos similares que han servido de inspiración para esta herramienta. Por ejemplo, el movimiento #SaludSinBulos en el que la Asociación de Investigadores en Salud pretende promover una información veraz y responsable en un ámbito tan delicado como la salud o la aplicación No More Haters de la Fundación de Ayuda contra la Drogadicción que pretende educar a jóvenes y adolescentes contra el discurso del odio. 
 
 * @LadyDistopia (link) ...¿ por qué ?
 * (...)
@@ -55,6 +60,8 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 **Necesidad/oportunidad** 
+
+Como 
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 

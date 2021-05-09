@@ -105,10 +105,9 @@ En la aplicación se pondrán encontrar tres tipos de recursos:
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Para evaluar el grado de satisfacción de los usuarios que han utilizado la aplicación, se realizaría un seguimiento de las desacargas tanto en Google Play como en App Store. Asimismo, se tendría en cuenta las reseñas que los lectores dejarían en estas herramientas. Además de ello, se estaría en contacto continuo con AMPAs, equipos docentes y asociaciones que utilizasen nuestros documentos para conocer si han sido de utilidad y en qué mejorar.
 
-* Test con usuarios (...) 
-* ... 
+En cuanto al grado de sastisfacción en redes sociales, se utilizarían herramientas como Metricool o Google Analytics para conocer el grado de interacción de nuestra aplicación en redes sociales y los comentarios a valorar así como el posicionamiento SEO que ha tenido. 
 
 
 

@@ -1,25 +1,28 @@
-## (Nombre del proyecto)  
-
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
+## No más bulos  
 
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
-Univesidad de Granada  
+Univesidad de Granada 
+
+Paula Pérez Quintana 2020/2021
 
 ----
 
-**Titulo** : _______
+**Titulo** : No más bulos
 
-**Autor(es)** ______________
+**Autor(es)** Paula Pérez Quintana
 
-**Resumen** : _________
+**Resumen** : "No más bulos" es un proyecto pedagógico enfocado hacia la alfabetización mediática. Durante los últimos años, el consumo de información a través de los teléfonos móviles y redes sociales ha provocado un aumento de los bulos y desinformaciones. Por ello, se ha desarollado esta app que pretende dar consejos, "entrenar el ojo" y educar mediáticamente a los lectores a través de retos para que sean identificar qué es o no un bulo. 
 
-**logotipo** :  ________
+**logotipo** :
 
-**Slogan** (frase motivadora/inspiradora): ________
+![Logo No Más Bulos](https://user-images.githubusercontent.com/82604710/117575655-0bfb1080-b0e3-11eb-8e12-692d03d27929.png)
 
-**Hashtag**  ___
+
+**Slogan** (frase motivadora/inspiradora): Rompe la viralización de la desinformación
+
+**Hashtag**  #NoMásBulos #SinVerificarNoCompartes #AlfabetizaciónMediática
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 

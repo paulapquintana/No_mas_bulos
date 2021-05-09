@@ -69,9 +69,19 @@ Los datos sobre desinformación reflejan la importancia de este proyecto:
 - La circulación de desinformación aumentó en un 365% en 2017 según el informe Approaching the Future del Corporate Excellence – Centre for Reputation Leadership (2018).
 - La verificación de datos es una de las actividades periodísticas que más relevancia ha adquirido a lo largo de los últimos años llegando a estar registrados, actualmente, 237 medios dedicados a la verificación en 78 países.
 - La televisión estadounidense Univision contabilizó en su espacio de fact-checking 217 falsedades durante las elecciones de Estados Unidos de 2016, el 79% de Trump y el 21% de Clinton.
+
 Estas son solo algunas de las cifras que estudios científicos y revisiones académicas arrojan y reflejan la importancia tanto de la verificación de datos como de la alfabetización mediática de los lectores para combatir el sistema de comunicación infoxificado.  
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+![Trompeta de la desinformación](https://user-images.githubusercontent.com/82604710/117577398-ed4c4800-b0e9-11eb-92a1-dc34d8755295.jpg)
+
+
+**Personas/Usuarios**  
+Aunque el problema de la desinformación afecta a todo el conjunto de la sociedad, son las personas más mayores las que han experimentados un mayor cambio en el consumo de información y, por tanto, necesitan una mayor readaptación y alfabetización mediática. Cuando antes se consumía información, se sabía que en mayor o menor medida o de forma más o menos sesgada, se iba a consumir información veraz. Los lectores tenían un "ancla": los pitidos de los boletines de la radio, la sintonía del informativo o el papel del periódico. Sin embargo, actualmente, consumimos todo tipo de contenidos -no necesariamente veraces- a través del móvil por lo que necesitamos una serie de formación que nos ayude a distinguir entre montajes, desinformación, contenidos manipulados, etc.
+Público objetivo:
+- Personas mayores entre 40 y 70 años.
+- Escuelas de mayores.
+- Talleres en institutos (alumnos entre 12 y 18 años).
+- Formaciones en empresas.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 

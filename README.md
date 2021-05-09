@@ -13,7 +13,7 @@ Paula Pérez Quintana 2020/2021
 
 **Autor(es)** Paula Pérez Quintana
 
-**Resumen** : "No más bulos" es un proyecto pedagógico enfocado hacia la alfabetización mediática. Durante los últimos años, el consumo de información a través de los teléfonos móviles y redes sociales ha provocado un aumento de los bulos y desinformaciones. Por ello, se ha desarollado esta app que pretende dar consejos, "entrenar el ojo" y educar mediáticamente a los lectores a través de retos para que sean identificar qué es o no un bulo. 
+**Resumen** : "No más bulos" es un proyecto pedagógico enfocado hacia la alfabetización mediática. Durante los últimos años, el consumo de información a través de los teléfonos móviles y redes sociales ha provocado un aumento de los bulos y desinformaciones. Por ello, se ha desarrollado esta app que pretende dar consejos, "entrenar el ojo" y educar mediáticamente a los lectores a través de retos para que sean identificar qué es o no un bulo. 
 
 **Logotipo** :
 

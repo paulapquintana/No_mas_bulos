@@ -61,9 +61,15 @@ Existen diversos proyectos similares que han servido de inspiración para esta h
 
 **Necesidad/oportunidad** 
 
-Como 
+Como hemos explicado antes, la desinformación se ha convertido en una potente herramienta que atenta contra la democracia y la salud de sociedad. Ejemplo de ello es que la circulación de desinformación aumentó en un 365% en 2017 según el informe Approaching the Future del Corporate Excellence – Centre for Reputation Leadership (2018). El sistema de comunicación ha cambiado y las redes sociales, la velocidad impuesta, la pérdida de credibilidad de los medios de comunicación y los cambios de consumo de información han hecho que la importancia de la fuente haya disminuido y el usuario se focalice en el canal. El “lo ha dicho la televisión” se ha sustituido por “lo he visto en Internet”, lo que conlleva un enorme peligro ya que en la red se forma un enorme caos de bulos, verdaderas noticias y ruido que hace que el lector caiga en una intoxicación de información. Por ello, y aunque sean importantes los proyectos periodísticos de verificación (como AFP Factual, Maldita.es, Newtral o EFE Verifica), la verdadera vacuna contra los bulos de cara al futuro es la alfabetización mediática.
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** 
+
+Los datos sobre desinformación reflejan la importancia de este proyecto:
+- La circulación de desinformación aumentó en un 365% en 2017 según el informe Approaching the Future del Corporate Excellence – Centre for Reputation Leadership (2018).
+- La verificación de datos es una de las actividades periodísticas que más relevancia ha adquirido a lo largo de los últimos años llegando a estar registrados, actualmente, 237 medios dedicados a la verificación en 78 países.
+- La televisión estadounidense Univision contabilizó en su espacio de fact-checking 217 falsedades durante las elecciones de Estados Unidos de 2016, el 79% de Trump y el 21% de Clinton.
+Estas son solo algunas de las cifras que estudios científicos y revisiones académicas arrojan y reflejan la importancia tanto de la verificación de datos como de la alfabetización mediática de los lectores para combatir el sistema de comunicación infoxificado.  
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
 

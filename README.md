@@ -15,7 +15,7 @@ Paula Pérez Quintana 2020/2021
 
 **Resumen** : "No más bulos" es un proyecto pedagógico enfocado hacia la alfabetización mediática. Durante los últimos años, el consumo de información a través de los teléfonos móviles y redes sociales ha provocado un aumento de los bulos y desinformaciones. Por ello, se ha desarollado esta app que pretende dar consejos, "entrenar el ojo" y educar mediáticamente a los lectores a través de retos para que sean identificar qué es o no un bulo. 
 
-**logotipo** :
+**Logotipo** :
 
 ![Logo No Más Bulos](https://user-images.githubusercontent.com/82604710/117575655-0bfb1080-b0e3-11eb-8e12-692d03d27929.png)
 
@@ -53,10 +53,6 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 "No Más Bulos" surge de la necesidad imperiosa que existe en la sociedad actual de alfabetizar mediáticamente a los lectores y consumidores de información. Durante los últimos años han surgido proyectos periodísticos de verificación que luchan por diferenciar la información de la desinformación. Sin embargo, el arma más potente para combatir los bulos es la alfabetización mediática de los lectores para que ellos mismos sean capaces de discernir y/o sospechar de los contenidos que les lleguen a sus dispositivos móviles. Por ello, No Más Bulos pretende ser una aplicación de iniciación a un consumo responsable de contenidos en Internet que pretenda a través de juegos y retos educar al público. 
 
 Existen diversos proyectos similares que han servido de inspiración para esta herramienta. Por ejemplo, el movimiento #SaludSinBulos en el que la Asociación de Investigadores en Salud pretende promover una información veraz y responsable en un ámbito tan delicado como la salud o la aplicación No More Haters de la Fundación de Ayuda contra la Drogadicción que pretende educar a jóvenes y adolescentes contra el discurso del odio. 
-
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
 
 
 **Necesidad/oportunidad** 
@@ -99,7 +95,8 @@ Como se ha mencionado anteriormente, para el desarrollo básico de la aplicació
 
 Además, en base al logotipo de la app, se ha diseñado con la herramienta Canva un diseño de cómo sería la interfaz del proyecto y en dónde se situaría cada uno de los tres recursos antes explicados. 
 
-![Diseño de la app](https://user-images.githubusercontent.com/82604710/117578633-8d58a000-b0ef-11eb-9fdc-352fc61cee7a.png)
+![Visión App](https://user-images.githubusercontent.com/82604710/117579727-77011300-b0f4-11eb-876a-d7e2c9d98a61.png)
+
 
 
 
@@ -111,53 +108,14 @@ En cuanto al grado de sastisfacción en redes sociales, se utilizarían herramie
 
 
 
-
-
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
+* Grado de consecución del proyecto: El proyecto está definido, tiene marcados los objetivos y está planteado por qué se cree que es necesario, además de un público objetivo claro. 
+* Problemas identificados: El principal problema identificado es la limitación que ofrece H5P a la hora de diseñar una aplicación. A pesar de que el modelo base se puede observar, la herramienta no es demasiado avanzada por lo que se necesataría para elaborar la aplicación un conocimiento en profundidad de programación para realizarla en herramientas más avanzadas y mejoradas.
+* Propuestas de mejora: Considero que las propuestas de mejora podrían ir llegando y adaptándose en base a las necesidades de los usuarios que la utilicen. A través de un diálogo continuo con equipos docentes y universidades, como se han dicho antes, podrían irse identificando nuevas mejoras. 
+* Posible interés del proyecto: Diversos colectivos podrían sentirse identificados por el proyecto: desde ámbitos educativos en institutos, escuelas de mayores o universidades, hasta gabinetes de comunicación, empresas o proyectos periodísticos. 
 
 
 
 ----
-
-**Referencias y recursos utilizados** :
-
-* [Proceso UX](https://uxmastery.com/resources/process/)
-* [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
-* [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
-
-
